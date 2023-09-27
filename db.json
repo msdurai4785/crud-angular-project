@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "vetriselvi k",
+      "lastName": "kurumban",
+      "email": "sfsdf@sdf.in",
+      "dob": "2023-09-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "asda",
+      "experience": 4,
+      "package": 5,
+      "id": 2
+    },
+    {
+      "firstName": "abinaya",
+      "lastName": "A",
+      "email": "nbn@sdfd.in",
+      "dob": "2023-09-14T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "sasa",
+      "experience": 5,
+      "package": 9,
+      "id": 3
+    },
+    {
+      "firstName": "manish",
+      "lastName": "s",
+      "email": "dfd@dfgdf.com",
+      "dob": "2023-09-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "avancer",
+      "experience": 1,
+      "package": 4,
+      "id": 4
+    },
+    {
+      "firstName": "hasini",
+      "lastName": "s",
+      "email": "sfsdf@sdf.in",
+      "dob": "2023-09-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "ss trading",
+      "experience": 2,
+      "package": 5,
+      "id": 5
+    },
+    {
+      "firstName": "durai",
+      "lastName": "S",
+      "email": "duari@gmail.com",
+      "dob": "2023-09-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "rrss",
+      "experience": 6,
+      "package": 4,
+      "id": 7
+    },
+    {
+      "firstName": "zxDs",
+      "lastName": "ZX",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 8
+    },
+    {
+      "firstName": "zxDs",
+      "lastName": "ZX",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 9
+    }
+  ]
+}
